@@ -37,7 +37,7 @@
 </br>
 
 <p align="center">
-  <img alt="Layout" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1623861967/Development/Ignite/chrome-capture_3_u1wkvr.gif">
+  <img alt="Layout" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1623862816/Development/Ignite/chrome-capture_7_idsiii.gif">
 </p>
 
 ## 📆 Sobre o projeto
